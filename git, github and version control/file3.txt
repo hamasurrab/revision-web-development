@@ -1,0 +1,1 @@
+and now i am changing my code and later ia m gonna apply gi checkout ...due to this previous code will come from local repo  to working repo.
